@@ -1,0 +1,11 @@
+mes,gastos,descricao,categoria
+1,1200,Supermercado,Alimentação
+2,1350,Uber,Transporte
+3,1280,Cinema,Lazer
+4,1400,Restaurante,Alimentação
+5,1500,Viagem,Lazer
+6,1600,Academia,Saúde
+7,1550,Farmácia,Saúde
+8,1700,Shopping,Lazer
+9,1650,Combustível,Transporte
+10,1800,Mercado,Alimentação
