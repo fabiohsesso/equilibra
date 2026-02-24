@@ -1,4 +1,3 @@
-@'
 # Equilibra - App de Organização de Finanças Pessoais com IA
 
 Projeto protótipo profissionalizado de backend e IA para um aplicativo de finanças pessoais. Inclui **API REST** com FastAPI, **banco SQLite** via SQLModel, **módulos de IA** (classificação, previsão, detecção de anomalias), scripts de treino, e endpoints para CRUD de usuários, transações e metas. Pronto para integração com frontend (React Native) e publicação no GitHub.
